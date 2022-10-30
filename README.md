@@ -1,5 +1,8 @@
 # BetterReadLine
 An easy to use and highly customizable alternative for Console.ReadLine();
+
+> 🟡 **Project status**: Maintenance mode<sup>[[?]](https://github.com/BlyZeYT/.github/blob/master/project-status.md)</sup>
+
 ## How to use
 Initialize a new ConsoleInputReader instance
 ```
