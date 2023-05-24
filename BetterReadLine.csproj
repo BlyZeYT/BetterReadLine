@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>icon.ico</ApplicationIcon>
+    <GenerateDocumentationFile>True</GenerateDocumentationFile>
+    <Authors>BlyZe</Authors>
+    <PackageId>BlyZe.BetterReadLine</PackageId>
+    <Description>An easy to use and highly customizable alternative for Console.ReadLine();</Description>
+    <PackageProjectUrl>https://github.com/BlyZeYT/BetterReadLine</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/BlyZeYT/BetterReadLine</RepositoryUrl>
+    <PackageIcon>icon.png</PackageIcon>
+    <PackageTags>blyze;readline;read;betterreadline;betterread;better readline;inputreader;console;input reader;console.readline;better console.readline</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Version>1.1.0</Version>
+    <PackageReleaseNotes>Added Generics for ConsoleInputReader.Read(...);</PackageReleaseNotes>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="icon.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Colorful.Console" Version="1.2.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="icon.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
