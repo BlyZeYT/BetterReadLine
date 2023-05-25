@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://github.com/BlyZeYT/ConsoleMenu/blob/master/Icon.png" height="200">
+  <img src="https://github.com/BlyZeYT/BetterReadLine/blob/master/icon.png" height="200">
 </p>
 
 # Better ReadLine
