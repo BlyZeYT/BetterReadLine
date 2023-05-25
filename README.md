@@ -2,7 +2,7 @@
   <img src="https://github.com/BlyZeYT/BetterReadLine/blob/master/icon.png" height="200">
 </p>
 
-# Better ReadLine
+# BetterReadLine
 An easy to use and highly customizable alternative for Console.ReadLine();
 For ideas, feedback or anything else just open an issue.
 
